@@ -1,6 +1,6 @@
 ### Hi Word 👋
 
-I'm Hakan from Germany. I am Full Stack Web Developer.
+I'm Hakan from Germany, and I`m Full Stack Web Developer.
 
 
 
