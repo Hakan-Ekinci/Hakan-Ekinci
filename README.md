@@ -2,7 +2,7 @@
 
 I'm Hakan from Germany and I`m new Full Stack Web Developer.
 
-- 📫 How to reach me **hakanekinci.hb@gmail.com**
+- 📫  How to reach me **hakanekinci.hb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
