@@ -17,8 +17,8 @@ I'm Hakan from Germany and I`m new Full Stack Web Developer.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hakan-Ekinci)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakan-Ekinci&langs_count=8)](https://github.com/Hakan-Ekinci/github-readme-stats)
+[![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hakan-Ekinci)](https://github.com/Hakan-Ekinci/github-readme-stats)
 
 
 
