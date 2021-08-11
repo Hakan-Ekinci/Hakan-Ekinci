@@ -6,7 +6,7 @@ I'm Hakan from Germany and I`m new Full Stack Web Developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/hakan-ekinci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hakan-ekinci" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hakan-ekinci-4b543b206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hakan-ekinci-4b543b206/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://github.com/hakan-ekinci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://github.com/hakan-ekinci" height="30" width="40" /></a>
 <a href="/https://github.com/hakan-ekinci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://github.com/hakan-ekinci" height="30" width="40" /></a>
