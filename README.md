@@ -1,6 +1,6 @@
 ### Hi Word 👋
 
-I'm Hakan from Germany and I`m new Full Stack Web Developer...
+I'm Hakan from Germany and I`m new  Web Developer...
 
 - 📫 How to reach me **hakanekinci.hb@gmail.com**
 - 📫 How to reach me **hakanekinci@web.de**
